@@ -1,5 +1,8 @@
 # Vivexpress  
 
+## Description
+A node app created to practice express network. Building on e-commerce with express
+
 ### Installation
 1. git clone https://github.com/curtello/uzi.git
 
