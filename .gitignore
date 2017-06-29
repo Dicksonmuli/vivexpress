@@ -1,6 +1,7 @@
 #ignore packages installed by npm
 node_modules
-#other files to be ignored 
+#other files to be ignored
 *~
 .DS_Store
 credentials.js
+.env
