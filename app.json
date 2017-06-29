@@ -1,0 +1,6 @@
+{
+	"name": "Vivexpress",
+	"description": "A trial of express",
+	"keywords":["node", "express", "static"],
+	"logo":"http://node-js-sample.herokuapp.com/node.svg"
+}
